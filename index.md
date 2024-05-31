@@ -1,3 +1,11 @@
+## Portfolio
+
+### Running Pace Predictor
+Use Apple Watch and Strava data to predict my average running pace.
+
+### 2D Steady-State Heat Conduction
+Solve the heat equation using Python.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zdemeo/zdemeo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.

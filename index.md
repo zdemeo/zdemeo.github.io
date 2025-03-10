@@ -1,7 +1,7 @@
 ## Zac DeMeo Portfolio
 
 ### 1D Transient Heat Conduction Solver
-A 1D thermal solver using the finite volume method. Notebook can be found [here](https://colab.research.google.com/github/zdemeo/1d_finite_volume/blob/main/1d_transient_conduction.ipynb)
+A 1D thermal solver using the finite volume method. Notebook can be found [here](https://colab.research.google.com/github/zdemeo/1d_finite_volume/blob/main/1d_transient_conduction.ipynb).
 
 ### Running Pace Predictor
 Train a model using Apple Watch and Strava data to predict my average running pace. You can look at the Apple Watch data exploration [here](https://github.com/zdemeo/apple_watch/blob/main/predict_pace.ipynb). 
